@@ -1,0 +1,24 @@
+{
+  "users": [
+      {
+          "id": 1,
+          "name": "Jono",
+          "alamat":"Semarang"
+      },
+      {
+          "id": 2,
+          "name": "Joni",
+          "alamat":"Kendal"
+      },
+      {
+          "id": 3,
+          "name": "Jona",
+          "alamat":"Salatiga"
+      },
+      {
+          "id": 4,
+          "name": "Joko",
+          "alamat":"Demak"
+      }
+  ]
+}
